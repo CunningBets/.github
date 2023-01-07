@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg2216"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="_MASTER-FRAME-FONT-NEW.svg">
+  <defs
+     id="defs2210" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="233.17409"
+     inkscape:cy="184.99516"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-bottom="10"
+     fit-margin-right="10"
+     inkscape:showpageshadow="false"
+     scale-x="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata2213">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,0)">
+    
+<g
+       id="g860"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#010101;fill-opacity:1;stroke:none"
+       aria-label="c"
+       transform="matrix(2.0428813,0,0,2.0234426,1820.2039,-253.88155)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path858"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:SunCatcherStudioFont;-inkscape-font-specification:SunCatcherStudioFont;fill:#010101;fill-opacity:1"
+         d="m -873.24736,169.77741 48.86023,-34.543 0.0902,20.19133 v 26.60334 h -12.80468 v -21.4711 l -23.48668,15.58076 v 46.11955 l 23.48668,15.4321 v -18.44155 h 12.80468 v 26.84357 17.74766 l -48.95047,-34.0881 z" />
+    </g>
+
+
+
+<g
+       aria-label="b"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#010101;fill-opacity:1;stroke:none"
+       id="g849"
+       transform="matrix(1.9760532,0,0,2.0890292,1173.2977,-415.38825)">
+      <path
+         d="m -460.43847,238.79214 0.14158,20.96693 -6.30909,9.14431 6.30909,13.18902 -0.18878,17.78214 -49.4985,32.90503 0.0536,-124.28146 49.49209,32.85845 z m -36.54933,23.40195 h 18.14862 l 6.06636,-7.551 0.26697,-7.39633 -24.48195,-15.29605 z m 10e-6,46.98274 24.61542,-15.56207 -0.13348,-6.52236 -6.66666,-11.81307 h -17.81529 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:SunCatcherStudioFont;-inkscape-font-specification:SunCatcherStudioFont;fill:#010101;fill-opacity:1"
+         id="path847"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
+    </g>
+
+
+
+  </g>
+</svg>
